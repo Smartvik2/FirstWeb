@@ -1,0 +1,6 @@
+@FirstWapp_HostAddress = http://localhost:5122
+
+GET {{FirstWapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
